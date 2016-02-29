@@ -1,6 +1,6 @@
-# Simple React
+# React Simple
 
-Just like the good old jQuery days. Get up and running in a flash with React. No build tools, no config, no bullshit.
+Just like the good old jQuery days. Get up and running in a flash with React. No build tools, no config, no bullshit. Also no server side rendering, routes or any other tools you may need down the road. This is aimed and getting yourself up and running with the least amount of over head.
 
 # Installation
 
