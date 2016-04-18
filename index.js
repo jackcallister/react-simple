@@ -1,3 +1,3 @@
-const { HelloWorld } = window.App
+var HelloWorld = window.App.HelloWorld
 
-ReactDOM.render(<HelloWorld />, document.getElementById("app"))
+ReactDOM.render(React.createElement(HelloWorld, null), document.getElementById("app"))
