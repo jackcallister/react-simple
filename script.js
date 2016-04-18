@@ -1,7 +1,7 @@
-class App extends React.Component {
-  render() {
-    return <h1>Hello, World!</h1>
+var App = React.createClass({
+  render: function() {
+    return React.DOM.h1(null, "Hello World!")
   }
-}
+})
 
-ReactDOM.render(<App />, document.getElementById("app"))
+ReactDOM.render(React.createElement(App, null), document.getElementById("app"))
