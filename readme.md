@@ -4,7 +4,7 @@ Just like the good old jQuery days. Get up and running in a flash with React. No
 
 # Installation
 
-Run `python -m SimpleHTTPServer` from your terminal in the project directory, open up `localhost:8000` then edit `HelloWorld.js` to your heart's content.
+Run `python -m SimpleHTTPServer` (or `python -m http.server` using Python3) from your terminal in the project directory, open up `localhost:8000` then edit `HelloWorld.js` to your heart's content.
 
 # Notes
 
